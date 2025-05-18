@@ -16,3 +16,6 @@ And stakes in various international delivery startups
 
 While the dataset used in this project may not reflect the most current state of Zomato's global operations, it remains a rich source to explore trends, customer behavior, and regional food preferences.
 The primary focus here is on crafting powerful SQL queries, drawing insights, and showcasing data manipulation skills through joins, aggregations, window functions, and filters. So even though the restaurants may not be delivering anymore — the learnings definitely are! 😄
+
+📌DATASET AND TOOLS
+https://www.kaggle.com/shrutimehta/zomato-restaurants-data/download
